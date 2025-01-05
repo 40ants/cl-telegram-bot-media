@@ -9,4 +9,4 @@
   :class :40ants-asdf-system
   :defsystem-depends-on ("40ants-asdf-system")
   :pathname "src"
-  :depends-on ())
+  :depends-on ("cl-telegram-bot-media/core"))
